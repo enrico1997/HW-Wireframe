@@ -37,7 +37,7 @@ header {
 }
 
 section {	
-	float: left;
+	float: left; 
   	margin-right: 20px;
   	margin-bottom: 20px;
 }
